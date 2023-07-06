@@ -1,4 +1,4 @@
-import { View, Text } from "react-native";
+import { View, Text } from 'react-native';
 
 function PrimaryButton({ children }) {
   return (
@@ -7,4 +7,5 @@ function PrimaryButton({ children }) {
     </View>
   );
 }
+
 export default PrimaryButton;
